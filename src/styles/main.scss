@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;700&display=swap');
+
 $dark: #000;
 $white: #fff;
 
@@ -9,6 +11,7 @@ $white: #fff;
 body {
   background-color: $dark;
   color: $white;
+  font-family: 'Montserrat', sans-serif;
 }
 
 #app {
