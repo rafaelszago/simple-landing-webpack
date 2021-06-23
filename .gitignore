@@ -1,0 +1,20 @@
+### General ###
+.DS_Store
+.AppleDouble
+.LSOverride
+.DS_*
+*.log
+
+### VisualStudioCode ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+### Modules ###
+node_modules
+
+## Dist folder ###
+dist
