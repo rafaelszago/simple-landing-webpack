@@ -52,6 +52,6 @@ yarn lint
 
 Rafael Zago – rafaelszago@gmail.com
 
-Distributed under the WTFPL license. See ``LICENSE`` for more information.
+Distributed under the [WTFPL](http://www.wtfpl.net/) license.
 
 [https://github.com/rafaelszago](https://github.com/rafaelszago/)
